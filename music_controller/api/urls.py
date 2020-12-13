@@ -4,3 +4,5 @@ from .views import main
 urlpatterns = [
     path('', main)
 ]
+
+test = []
